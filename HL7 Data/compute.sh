@@ -1,0 +1,1 @@
+echo -n -e "\x0b$(cat hl7v2-mllp-sample.txt)\x1c\x0d" | nc 10.128.0.15 2575 >> "output.txt"
