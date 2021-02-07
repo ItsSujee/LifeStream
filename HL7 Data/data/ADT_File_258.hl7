@@ -1,0 +1,12 @@
+MSH|^~\&|PCS|SCM|HLTCVO||20210207005256||RDE^O01|9012978600401100|D|2.3
+PID|||83242879||Robinson^Steve||20101027
+PV1||Inpatient|NS-9^920^A^UHN||||||||||||||||8455646178^^^IPACCT
+ORC|NW|AQVRCOPS4V^PCS|AQVRCOPS4V||||^daily^T2^20210207005256^20210214005256^Inpatient Chemo|||||MDRAY^Attending^Doc
+RXE||NOADM1^PHARMACY GENERATED ORDER(PHARMACY GENERATED ORDER)|1||DOSE|injection|IVCI once at 5 ml/hr for 48 hours. 9 mcg daily x 2 days = 18mcg over 48 hr thr 0.2 micron filter||||||||M034DWCVGX|||||||48.00|5|ml/hr
+RXR|IVCI^IVCI
+NTE|1|P|BLINAtumomab inj: add 3 mL SWFI to 35 mcg vial|Administrative^Instruction (non-printing)
+NTE|2|P|IVCI once at 5 ml/hr for 48 hours. 9 mcg daily x 2 days = 18 mcg over 48 hr through 0.2 micron filter.  Prepared:  12:00 noon on 11 /1/17.|Admin Instructions^Admin Instructions
+RXC|A|NOADM1^PHARMACY GENERATED ORDER(PHARMACY GENERATED ORDER)^^B|1|DOSE
+RXC|A|74740549^BLINAtumomab [multi-day] injection 35 mcg (12.5 mcg/mL)(BLINAtumomab [multi-day] injection 35 mcg (12.5 mcg/mL))^^A|18|mcg
+RXC|A|74739939^IV solution stabilizer for BLINATUMOmab inj 1 mL(IV solution stabilizer for BLINATUMOmab inj 1 mL)^^A|4.8|ml
+RXC|B|74719253^normal saline 1 mL for qs or custom volume(normal saline for qs or custom volume)^^A|233.76|ml

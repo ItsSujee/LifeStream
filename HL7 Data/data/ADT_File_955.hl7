@@ -1,0 +1,10 @@
+MSH|^~\&|PCS|SCM|HLTCVO||20210207005256||RDE^O01|9012978600401100|D|2.3
+PID|||98615091||Hill^Leeroy||20101027
+PV1||Inpatient|NS-9^920^A^UHN||||||||||||||||8455646178^^^IPACCT
+ORC|NW|KW3JGQ17XS^PCS|KW3JGQ17XS||||^2 times a week^^20210207005256^20210214005256^Inpatient Chemo|||||MDRAY^Attending^Doc
+RXE||74708678^DOXOrubicin injection 2 mg/mL, 100 mL(ADRIAMYCIN injection 2 mg/mL, 100 mL)|19||mg|injection|can be co-administered via Y-site||||||||M034DWCSHM|||||||24.00|22.56|ml/hr
+RXR|IVCI^IVCI
+NTE|1|P|can be co-administered via Y-site|Admin Instructions^Admin Instructions
+NTE|2|P|Rate = mL/hr|Special Instructions^Special Instructions (do NOT use for label comments)
+RXC|A|74708678^DOXOrubicin injection 2 mg/mL, 100 mL(ADRIAMYCIN injection 2 mg/mL, 100 mL)^^B|19|mg
+RXC|B|74707738^dextrose 5% in water 500 mL + 32 mL overfill(dextrose 5% in water 500 mL + 32 mL overfill)^^A|532|ml
